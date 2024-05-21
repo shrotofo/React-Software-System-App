@@ -1,0 +1,24 @@
+{
+  "name": "logina",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "@react-pdf/renderer": "^3.1.9",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "easyinvoice": "^3.0.16",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "mkdirp": "^1.0.4",
+    "morgan": "~1.9.1",
+    "path": "^0.12.7",
+    "path-browserify": "^1.0.1",
+    "stream": "^0.0.2",
+    "stream-browserify": "^3.0.0",
+    "uuidv4": "^6.2.13"
+  }
+}
