@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Software-as-Service-Model 
 
 Key Features
@@ -14,7 +13,4 @@ Technologies Used
 Front-End Development: ReactJS
 Back-End Development: NodeJS
 Database Management: MySQL
-=======
-# Box Office App
-box office web app created using javascript and HTML 
->>>>>>> 7a91c328 (Initial commit)
+
