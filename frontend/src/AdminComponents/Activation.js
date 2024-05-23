@@ -6,8 +6,9 @@ import CryptoJS from "crypto-js";
 
 function Activation(){
 
-     //store the recent values 
+     //store active clients , state variable data
      const[data,setData]=useState([])
+     // store inactive clients
 
      const[data1,setData1]=useState([])
     
@@ -32,6 +33,8 @@ function Activation(){
 
      const deactivate = async (ID) => { try { await axios.put('http://localhost:3311/deactivate/'+ID) 
     window.location.reload()}catch(err) {console.log(err);}}
+
+     //generation and handling of license key 
 
     const handleLkey=  (ID) => { 
         axios.get('http://localhost:3311/read/'+ID).then(res=>
