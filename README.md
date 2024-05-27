@@ -1,19 +1,19 @@
 # 💪 Software-as-Service-Model 
 React web application that consists of a admin system, client/group admin system, user system(registered by clients/group admin for their employees). Keeps track of software applications and concurrant license key for each software brought by the clients.
 
-# # 😎 Key Features
+## 😎 Key Features
 
-Dynamic Analytic Dashboards and Chart: Displays live charts for each system
+**Dynamic Analytic Dashboards and Chart** : Displays live charts for each system
 
-Concurrant License Key Generation: automatically generates license key to maintain product lifecyle.
+**Concurrant License Key Generation** : automatically generates license key to maintain product lifecyle.
 
-Automated Client Management System: Streamlines client interactions and management tasks, allowing businesses to focus on growth and service improvement.
+**Automated Client Management System** : Streamlines client interactions and management tasks, allowing businesses to focus on growth and service improvement.
 
-#🔎 Technologies Used
+## 🔎 Technologies Used
 
-Front-End Development: ReactJS
-Back-End Development: NodeJS
-Database Management: MySQL
+**Front-End Development** : ReactJS
+**Back-End Development** : NodeJS
+**Database Management** : MySQL
 
 ![UML](./uml.jfif)
 ![Admin Management System](./admin.jfif)
