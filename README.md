@@ -15,7 +15,7 @@ React web application that consists of a admin system, client/group admin system
 **Back-End Development** : NodeJS
 **Database Management** : MySQL
 
-<img src="./admin.jfif" alt="Admin Management System" width="300">
+<img src="./admin.jfif" alt="Admin Management System" width="500">
 
 ![UML](./uml.jfif)
 ![Admin Management System](./admin.jfif)
