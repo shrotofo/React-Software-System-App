@@ -15,13 +15,11 @@ React web application that consists of a admin system, client/group admin system
 **Back-End Development** : NodeJS
 **Database Management** : MySQL
 
+<img src="./UML.jfif" alt="UML" width="1000">
 <img src="./admin.jfif" alt="Admin Management System" width="1000">
-
-![UML](./uml.jfif)
-![Admin Management System](./admin.jfif)
-![Client Managment System](./client.jfif)
-![Product Managment System](./product.jfif)
-![Quotation Payment Lifecyle](./quotation.jfif)
+<img src="./client.jfif" alt="Client Managment System" width="1000">
+<img src="./product.jfif" alt="Product Managment System" width="1000">
+<img src="./quotation.jfif" alt="Quotation Payment Lifecyle" width="1000">
 
 
 ‼️👽 [Click here to watch video](https://drive.google.com/file/d/1t1IdX_m0IXCVmef0IbNMlZF-WHW6ry8U/view)
